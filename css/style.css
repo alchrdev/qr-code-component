@@ -30,7 +30,6 @@ body{
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  min-height: 100vh;
 }
 
 p{
@@ -40,7 +39,6 @@ p{
 
 img{
   max-width: 100%;
-  height: auto;
   display: block;
 }
 
@@ -70,7 +68,6 @@ img{
 
 .card-desc{
   color: var(--grayish-blue);
-  font-size: 1rem;
 }
 
 .attribution{
